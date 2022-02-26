@@ -15,9 +15,6 @@ Written by Limor Fried/Ladyada for Adafruit Industries.
 BSD license, all text above must be included in any redistribution
 **********************************************************/
 
-/***************************************************
- * Works for six capacitive sensors
- */
 // built in library for using I2C devices
 #include <Wire.h>
 #include "Adafruit_MPR121.h"
