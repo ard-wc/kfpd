@@ -9,6 +9,7 @@ Hardware
 - Compartment Sketches &amp; Dimensioning
   - Compartment Design Work\_Victor.pdf
 - Components &amp; Datasheets
+  - Component_List.xlsx
   - MPR121\_Technical\_Data\_2010.pdf
   - MPR121\_Technical\_Data\_2013.pdf
   - NanoV3.3\_sch.pdf
