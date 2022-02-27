@@ -3,6 +3,8 @@ import pyglet, os
 import tkinter #For widget craftign
 import serial #For reading the serial port
 
+#Emmitt Brandt
+
 serialPort = serial.Serial(port = "COM3", baudrate = 9600, bytesize = 8, timeout = 2, stopbits = serial.STOPBITS_ONE) #Set up Serial port
 serialString = ""#String to read into
 
