@@ -33,7 +33,7 @@ Software
 - Application\_Prototype\_Emmitt.py
 - Application\_Test\_Emmitt.py
 - FrontEndDev\_Chief.docx
-- KFPDappChief.py
+- KFPDapp\_Chief.py
 - MPR121\_Multiplexer\_Chase.ino
 - MPR121\_print\_ADC\_counts\_Chase.ino
 - MPR121\_test\_sensitivity\_Chase.ino
