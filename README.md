@@ -49,12 +49,12 @@ Technical Journals
 - Emmitt
   - journal2.pdf4
 - Victor
-- Journal Entry #1.docx
-- Journal Entry #2.docx
-- Journal Entry #3.docx
-- Journal Entry #4.docx
-- Journal Entry #5.docx
-- Journal Entry #6.docx
+  - Journal Entry #1.docx
+  - Journal Entry #2.docx
+  - Journal Entry #3.docx
+  - Journal Entry #4.docx
+  - Journal Entry #5.docx
+  - Journal Entry #6.docx
 
 Weekly Minutes
 
