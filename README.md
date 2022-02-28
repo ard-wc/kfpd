@@ -75,6 +75,8 @@ Technical Journals
   - IndividualJournalFall21Chief.pdf
 - Emmitt
   - journal2.pdf4
+- Slate
+  - Individual Technical Journal.pdf
 - Victor
   - Journal Entry #1.docx
   - Journal Entry #2.docx
