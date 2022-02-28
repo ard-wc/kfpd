@@ -23,6 +23,11 @@ Hardware
   - Test ADC counts just with 50 ohms\_Chase.csv
   - Test ADC counts just with finger\_Chase.csv
 
+Pictures
+
+- Touch Detection Circuit With Multiplexer_Slate.png
+- Touch Detection Circuit Without Multiplexer_Chase.jpg
+
 Presentations
 
 - Senior Project Design I - Fall Showcase Technical Presentation.pptx
@@ -31,6 +36,10 @@ Presentations
 Product Reflection
 
 - Product Reflection Paper - Techblazers.pdf
+
+Project Planning
+
+- Project Planning Paper.docx
 
 Project Proposal
 
@@ -46,6 +55,10 @@ Software
 - MPR121\_print\_ADC\_counts\_Chase.ino
 - MPR121\_test\_sensitivity\_Chase.ino
 - resize\_test\_Emmitt.py
+
+Specifications
+
+- Technical Product Specifications.docx
 
 Technical Journals
 
