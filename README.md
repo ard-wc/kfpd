@@ -44,6 +44,10 @@ Technical Journals
 - Chase
   - Technical Journal - Senior Design 1\_Chase.docx
   - Technical Journal - Senior Design 2\_Chase.docx
+- Emmitt
+  - journal2.pdf
+- Chief
+  - IndividualJournalFall21Chief.pdf
 
 Weekly Minutes
 
