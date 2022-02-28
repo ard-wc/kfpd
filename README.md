@@ -18,6 +18,9 @@ Hardware
   - MPR121\_Technical\_Data\_2013.pdf
   - NanoV3.3\_sch.pdf
   - TCA9548\_Datasheet.pdf
+- Pictures
+  - Touch Detection Circuit With Multiplexer_Slate.png
+  - Touch Detection Circuit Without Multiplexer_Chase.jpg
 - Schematics
   - Official\_Schematic\_KFPD\_Slate.pdf
   - Prototype Schematic\_Victor.pdf
@@ -26,11 +29,6 @@ Hardware
   - Test ADC counts just with 25 ohms\_Chase.csv
   - Test ADC counts just with 50 ohms\_Chase.csv
   - Test ADC counts just with finger\_Chase.csv
-
-Pictures
-
-- Touch Detection Circuit With Multiplexer_Slate.png
-- Touch Detection Circuit Without Multiplexer_Chase.jpg
 
 Presentations
 
