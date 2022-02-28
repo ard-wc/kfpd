@@ -73,6 +73,8 @@ Weekly Minutes
 - EE585-595\_weekly minutes (10\_03\_21).docx
 - EE585-595\_weekly minutes (10\_31\_21).docx
 - EE585-595\_weekly minutes (11\_14\_21).docx
+- EE585-595_weekly minutes_02_06_22.docx
+- EE585-595_weekly minutes_02_20_22.docx
 
 Work Statement
 
