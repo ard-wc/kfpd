@@ -4,6 +4,10 @@ Block Diagram
 
 - Keyboard Finger Position Display Block Diagram\_Victor.pdf
 
+Code of Conduct
+
+- EE585-595 Code of Conduct.docx
+
 Hardware
 
 - Compartment Sketches &amp; Dimensioning
