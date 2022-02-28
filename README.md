@@ -28,6 +28,14 @@ Presentations
 - Senior Project Design I - Fall Showcase Technical Presentation.pptx
 - Senior Project Design I - TechBlazers Midterm Presentation.pptx
 
+Product Reflection
+
+- Product Reflection Paper - Techblazers.pdf
+
+Project Proposal
+
+- Project Proposal.docx
+
 Software
 
 - Application\_Prototype\_Emmitt.py
