@@ -60,6 +60,10 @@ Specifications
 
 - Technical Product Specifications.docx
 
+Team Skills
+
+- Team Skills Matrix.xlsx
+
 Technical Journals
 
 - Chase
