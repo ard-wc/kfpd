@@ -19,6 +19,8 @@ Hardware
   - NanoV3.3\_sch.pdf
   - TCA9548\_Datasheet.pdf
 - Pictures
+  - Keyboard Case Modified_Slate.png
+  - Keyboard Case Unmodified_Slate.png
   - Touch Detection Circuit With Multiplexer_Slate.png
   - Touch Detection Circuit Without Multiplexer_Chase.jpg
 - Schematics
