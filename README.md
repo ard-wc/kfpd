@@ -118,6 +118,7 @@ Weekly Minutes
 Work Packages (Individual)
   - Work Package_Slate.pdf
   - Individual Work Package - Victor Siooh.docx
+  - Work Package_Chase.docx
 
 Work Statement
   - Senior Design Project II - 2nd Semester Work Statement.pdf
