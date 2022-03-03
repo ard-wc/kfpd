@@ -86,6 +86,7 @@ Technical Journals
 - Slate
   - Individual Technical Journal.pdf
 - Victor
+  - Journal Entry #1.docx
   - Journal Entry #2.docx
   - Journal Entry #3.docx
   - Journal Entry #4.docx
