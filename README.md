@@ -40,6 +40,7 @@ Presentations
 
 - Senior Project Design I - Fall Showcase Technical Presentation.pptx
 - Senior Project Design I - TechBlazers Midterm Presentation.pptx
+- Senior Design Project I Fall Showcase Orientation Video Presentation.pptx
 
 Product Reflection
 
