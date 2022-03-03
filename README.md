@@ -97,6 +97,8 @@ Technical Journals
   - Journal Entry #4.docx
   - Journal Entry #5.docx
   - Journal Entry #6.docx
+  - Journal Entry (01_24_22 – 02_06_22).docx
+  - Journal Entry (02_13_22 - 02_27_22).docx
 
 Videos
   - Prototype Demonstration Video.mp4
