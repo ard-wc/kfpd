@@ -99,23 +99,22 @@ Technical Journals
   - Journal Entry #6.docx
 
 Videos
-- Prototype Demonstration Video.mp4
-- Product Orientation Video.mp4
+  - Prototype Demonstration Video.mp4
+  - Product Orientation Video.mp4
 
 Weekly Minutes
-
-- EE585-595\_weekly minutes (09\_05\_21).docx
-- EE585-595\_weekly minutes (09\_12\_21).docx
-- EE585-595\_weekly minutes (09\_19\_21).docx
-- EE585-595\_weekly minutes (09\_26\_21).docx
-- EE585-595\_weekly minutes (10\_03\_21).docx
-- EE585-595\_weekly minutes (10\_31\_21).docx
-- EE585-595\_weekly minutes (11\_14\_21).docx
-- EE585-595_weekly minutes_02_06_22.docx
-- EE585-595_weekly minutes_02_20_22.docx
+  - EE585-595\_weekly minutes (09\_05\_21).docx
+  - EE585-595\_weekly minutes (09\_12\_21).docx
+  - EE585-595\_weekly minutes (09\_19\_21).docx
+  - EE585-595\_weekly minutes (09\_26\_21).docx
+  - EE585-595\_weekly minutes (10\_03\_21).docx
+  - EE585-595\_weekly minutes (10\_31\_21).docx
+  - EE585-595\_weekly minutes (11\_14\_21).docx
+  - EE585-595_weekly minutes_02_06_22.docx
+  - EE585-595_weekly minutes_02_20_22.docx
 
 Work Packages (Individual)
   - Work Package_Slate.pdf
-Work Statement
 
-- Senior Design Project II - 2nd Semester Work Statement.pdf
+Work Statement
+  - Senior Design Project II - 2nd Semester Work Statement.pdf
