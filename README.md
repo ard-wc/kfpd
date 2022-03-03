@@ -95,6 +95,7 @@ Technical Journals
 
 Videos
 - Prototype Demonstration Video.mp4
+- Product Orientation Video.mp4
 
 Weekly Minutes
 
