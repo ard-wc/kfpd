@@ -114,6 +114,8 @@ Weekly Minutes
 - EE585-595_weekly minutes_02_06_22.docx
 - EE585-595_weekly minutes_02_20_22.docx
 
+Work Packages (Individual)
+  - Work Package_Slate.pdf
 Work Statement
 
 - Senior Design Project II - 2nd Semester Work Statement.pdf
