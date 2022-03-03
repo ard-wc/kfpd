@@ -54,6 +54,11 @@ Project Proposal
 
 - Project Proposal.docx
 
+Prototype Images
+
+- Prototype.jpg
+- Hardware Integration (MPR121 Capacitive Touch Sensors and Arduino Nano).jpg
+
 Software
 
 - Application\_Prototype\_Emmitt.py
