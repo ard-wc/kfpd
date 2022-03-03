@@ -79,6 +79,7 @@ Technical Journals
   - Technical Journal - Senior Design 2\_Chase.docx
 - Chief
   - IndividualJournalFall21Chief.pdf
+  - TechJournalSDII.docx
 - Emmitt
   - journal2.pdf4
 - Slate
