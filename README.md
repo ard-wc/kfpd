@@ -6,7 +6,7 @@ Block Diagram
 
 Code of Conduct
 
-- EE585-595 Code of Conduct.docx
+- EE585-595 Code of Conduct.pdf
 
 Conductive Materials
 
@@ -18,6 +18,7 @@ Hardware
   - Compartment Design Work\_Victor.pdf
 - Components &amp; Datasheets
   - Component_List_Slate.xlsx
+  - Component_List_Slate.pdf
   - MPR121\_Technical\_Data\_2010.pdf
   - MPR121\_Technical\_Data\_2013.pdf
   - NanoV3.3\_sch.pdf
@@ -48,11 +49,11 @@ Product Reflection
 
 Project Planning
 
-- Project Planning Paper.docx
+- Project Planning Paper.pdf
 
 Project Proposal
 
-- Project Proposal.docx
+- Project Proposal.pdf
 
 Prototype Images
 
@@ -63,7 +64,7 @@ Software
 
 - Application\_Prototype\_Emmitt.py
 - Application\_Test\_Emmitt.py
-- FrontEndDev\_Chief.docx
+- FrontEndDev\_Chief.pdf
 - KFPDapp\_Chief.py
 - MPR121\_Multiplexer\_Chase.ino
 - MPR121\_print\_ADC\_counts\_Chase.ino
@@ -72,7 +73,7 @@ Software
 
 Specifications
 
-- Technical Product Specifications.docx
+- Technical Product Specifications.pdf
 
 Team Skills
 
@@ -81,24 +82,24 @@ Team Skills
 Technical Journals
 
 - Chase
-  - Technical Journal - Senior Design 1\_Chase.docx
-  - Technical Journal - Senior Design 2\_Chase.docx
+  - Technical Journal - Senior Design 1\_Chase.pdf
+  - Technical Journal - Senior Design 2\_Chase.pdf
 - Chief
   - IndividualJournalFall21Chief.pdf
-  - TechJournalSDII.docx
+  - TechJournalSDII.pdf
 - Emmitt
   - journal2.pdf4
 - Slate
   - Individual Technical Journal.pdf
 - Victor
-  - Journal Entry #1.docx
-  - Journal Entry #2.docx
-  - Journal Entry #3.docx
-  - Journal Entry #4.docx
-  - Journal Entry #5.docx
-  - Journal Entry #6.docx
-  - Journal Entry (01_24_22 – 02_06_22).docx
-  - Journal Entry (02_13_22 - 02_27_22).docx
+  - Journal Entry #1.pdf
+  - Journal Entry #2.pdf
+  - Journal Entry #3.pdf
+  - Journal Entry #4.pdf
+  - Journal Entry #5.pdf
+  - Journal Entry #6.pdf
+  - Journal Entry (01_24_22 – 02_06_22).pdf
+  - Journal Entry (02_13_22 - 02_27_22).pdf
 
 Videos
   - Prototype Demonstration Video.mp4
@@ -117,8 +118,8 @@ Weekly Minutes
 
 Work Packages (Individual)
   - Work Package_Slate.pdf
-  - Individual Work Package - Victor Siooh.docx
-  - Work Package_Chase.docx
+  - Individual Work Package - Victor Siooh.pdf
+  - Work Package_Chase.pdf
 
 Work Statement
   - Senior Design Project II - 2nd Semester Work Statement.pdf
