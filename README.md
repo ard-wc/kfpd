@@ -8,6 +8,10 @@ Code of Conduct
 
 - EE585-595 Code of Conduct.docx
 
+Conductive Materials
+
+- Pros and Cons of Different Conductive Materials_Victor_Slate_Chase.pdf
+
 Hardware
 
 - Compartment Sketches &amp; Dimensioning
