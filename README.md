@@ -86,12 +86,15 @@ Technical Journals
 - Slate
   - Individual Technical Journal.pdf
 - Victor
-  - Journal Entry #1.docx
+  c
   - Journal Entry #2.docx
   - Journal Entry #3.docx
   - Journal Entry #4.docx
   - Journal Entry #5.docx
   - Journal Entry #6.docx
+
+Videos
+- Prototype Demonstration Video.mp4
 
 Weekly Minutes
 
