@@ -60,6 +60,9 @@ Prototype Images
 - Prototype.jpg
 - Hardware Integration (MPR121 Capacitive Touch Sensors and Arduino Nano).jpg
 
+Requirements
+- Technical Requirements.pdf
+
 Software
 
 - Application\_Prototype\_Emmitt.py
