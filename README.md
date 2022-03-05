@@ -122,6 +122,7 @@ Weekly Minutes
 Work Packages (Individual)
   - Work Package_Slate.pdf
   - Individual Work Package - Victor Siooh.pdf
+  - Individual_Work_Statment_Emmitt.pdf
   - Work Package_Chase.pdf
 
 Work Statement
