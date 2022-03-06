@@ -128,6 +128,7 @@ Work Packages (Individual)
   - Individual Work Package - Victor Siooh.pdf
   - Individual_Work_Statment_Emmitt.pdf
   - Work Package_Chase.pdf
+  - IndividualWorkPackage_Chief.pdf
 
 Work Statement
   - Senior Design Project II - 2nd Semester Work Statement.pdf
