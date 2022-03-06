@@ -15,6 +15,10 @@ Conductive Materials
 Hardware
 
 - Compartment Sketches &amp; Dimensioning
+  - Compartment Design #1 - Victor Siooh.glb
+  - Compartment Design #1 - Victor Siooh.png
+  - Compartment Design #2 - Victor Siooh.glb
+  - Compartment Design #2 - Victor Siooh.png
   - Compartment Design Work\_Victor.pdf
 - Components &amp; Datasheets
   - Component_List_Slate.xlsx
